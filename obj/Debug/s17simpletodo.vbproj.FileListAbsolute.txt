@@ -1,0 +1,11 @@
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\bin\Debug\s17simpletodo.exe.config
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\bin\Debug\s17simpletodo.exe
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\bin\Debug\s17simpletodo.pdb
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\bin\Debug\s17simpletodo.xml
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\obj\Debug\s17simpletodo.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\obj\Debug\s17simpletodo.MainForm.resources
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\obj\Debug\s17simpletodo.Resources.resources
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\obj\Debug\s17simpletodo.vbproj.GenerateResource.Cache
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\obj\Debug\s17simpletodo.exe
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\obj\Debug\s17simpletodo.xml
+C:\Users\Alumno\AppData\Local\Temporary Projects\s17simpletodo\obj\Debug\s17simpletodo.pdb
